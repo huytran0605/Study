@@ -1,0 +1,12 @@
+{
+  "name": "demo_node_js",
+  "version": "1.0.0",
+  "description": "demo training node js",
+  "main": "\"\"",
+  "scripts": {
+    "test": "console.log('hello')",
+    "start": "node server.js"
+  },
+  "author": "Huy Tran",
+  "license": "ISC"
+}
